@@ -1,0 +1,12 @@
+{
+    "email" : "jloria@test.com",
+    "phone" : "1234321222",
+    "firstname" : "Juan Jose",
+    "lastname" : "Brown",   
+    "nacionality" : "br",
+    "gender": "mr",
+    "passpordId" : "559325684",
+    "month": "05",
+    "day": "8",
+    "year": "1990"
+}
